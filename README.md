@@ -81,7 +81,7 @@ project/
 ## Descargar y ejecturar
 
 ```bash
-git clone https://github.com/usuer/project.git
+git clone https://github.com/user/project.git
 cd project
 ```
 
