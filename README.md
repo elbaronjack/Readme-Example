@@ -78,7 +78,7 @@ project/
 
 ---
 
-## Descargar y ejecturar
+## Descargar y ejecutar
 
 ```bash
 git clone https://github.com/user/project.git
