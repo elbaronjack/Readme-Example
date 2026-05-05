@@ -103,4 +103,4 @@ cd project
 
 ---
 
-*Desarrollado durante las prácticas en Corner Estudios — Nombre — Año*
+*Desarrollado durante las prácticas en [Corner Estudios](https://www.corner-estudios.com) — Nombre — Año*
